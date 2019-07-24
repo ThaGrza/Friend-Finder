@@ -1,4 +1,4 @@
-var friends = require('../data/friends.js');
+var friends = require('../data/friends');
 
 // Routing 
 module.exports = function (app) {

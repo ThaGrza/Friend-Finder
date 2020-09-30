@@ -9,7 +9,7 @@ Friend Finder is using  javascript, node.js and express to bring you closer than
 Friend-Finder is a homework assignment web app that helps people with similar personalities meet! Submit your name, a picture of your choosing, fill out a brief 10 question survey, and get matched with a friend!
 
 ## How to
-To start finding friends simply go to https://thagrza.github.io/Friend-Finder/ and submit your name, a picture of your choosing, fill out a brief 10 question survey, and get matched with a friend!
+To start finding friends simply go to  a https://friendfindeer.herokuapp.com/ and submit your name, a picture of your choosing, fill out a brief 10 question survey, and get matched with a friend!
 
 ## Tech/framework used
 <b> Built with </b>
